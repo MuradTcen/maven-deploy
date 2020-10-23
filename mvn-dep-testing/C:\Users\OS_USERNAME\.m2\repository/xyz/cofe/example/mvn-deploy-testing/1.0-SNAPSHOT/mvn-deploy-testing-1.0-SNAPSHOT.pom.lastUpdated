@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Oct 22 23:38:57 YEKT 2020
+http\://195.133.196.9\:8082//artifactory/khayrullinav/.lastUpdated=1603391937683
+@default-assets-snapshots-http\://195.133.196.9\:8082/artifactory/assets/.lastUpdated=1603391937743
+http\://195.133.196.9\:8082//artifactory/khayrullinav/.error=
+http\://195.133.196.9\:8082/artifactory/assets/.error=Could not transfer artifact xyz.cofe.example\:mvn-deploy-testing\:pom\:1.0-SNAPSHOT from/to assets-snapshots (http\://195.133.196.9\:8082/artifactory/assets)\: Not authorized , ReasonPhrase\:Unauthorized.
